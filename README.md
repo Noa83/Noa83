@@ -165,14 +165,7 @@ A custom WooCommerce plugin designed to automate complex jewellery pricing throu
 
 ## GitHub contributions
 
-<div align="center">
-
-<img src="https://gh-heat.anishroy.com/api/Noa83/svg?colors=172540,245073,2D8299,4AC7CE,9E8CF3&darkMode=true&transparent=true&showLegend=true&showMonthLabels=true&showDayLabels=true" alt="GitHub contribution calendar in navy, turquoise and purple" width="100%" />
-
-</div>
-
-*This static, recolored contribution calendar relies on an external service and the contribution information GitHub makes available. GitHub's native activity graph remains below the profile README; its green color cannot be customized using README Markdown. Private contributions appear only to the extent allowed by GitHub visibility settings.*
-
+![GitHub contributions](https://gh-heat.anishroy.com/api/Noa83/svg?colors=172540,245073,2D8299,4AC7CE,9E8CF3&darkMode=true&bg=%2314243C&transparent=false&textColor=%23FFFFFF&showLegend=true&showMonthLabels=true&showDayLabels=true&padding=20)
 ---
 
 ## En français 🇫🇷
