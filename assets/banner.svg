@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="350" viewBox="0 0 1280 350" role="img" aria-labelledby="title desc">
+<title id="title">Audrey Maleyrie — PHP / Symfony Developer</title>
+<desc id="desc">Modern navy banner with teal and purple architectural shapes and a code window.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B1227"/><stop offset=".60" stop-color="#13234B"/><stop offset="1" stop-color="#142D43"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#55E4D5"/><stop offset="1" stop-color="#A5A1FF"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3154"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+ <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#7AA2D2" opacity=".15"/></pattern>
+ <filter id="shadow" x="-20%" y="-30%" width="150%" height="180%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#020714" flood-opacity=".42"/></filter>
+</defs>
+<rect width="1280" height="350" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="350" rx="24" fill="url(#dots)"/>
+<circle cx="1170" cy="34" r="180" fill="#695ACB" opacity=".12"/>
+<circle cx="910" cy="315" r="150" fill="#3DE7C6" opacity=".08"/>
+<path d="M0 312 C180 272 250 367 444 315 S741 304 850 338" fill="none" stroke="#62DACA" stroke-width="1.7" opacity=".25"/>
+<rect x="68" y="66" width="5" height="215" rx="2.5" fill="url(#accent)"/>
+<text x="105" y="107" fill="#69E2D6" font-size="19" letter-spacing="4" font-family="Arial, Helvetica, sans-serif" font-weight="700">HELLO, I'M</text>
+<text x="102" y="171" fill="#F7FAFF" font-size="55" font-family="Arial, Helvetica, sans-serif" font-weight="700">Audrey Maleyrie</text>
+<text x="104" y="216" fill="#A5DDF1" font-size="27" font-family="Arial, Helvetica, sans-serif" font-weight="600">PHP / Symfony Developer</text>
+<text x="106" y="254" fill="#C4CAE3" font-size="18" font-family="Arial, Helvetica, sans-serif">Back-end engineering  ·  Business applications  ·  SaaS</text>
+<rect x="846" y="59" width="353" height="238" rx="15" fill="url(#panel)" stroke="#57739C" stroke-opacity=".6" filter="url(#shadow)"/>
+<rect x="846" y="59" width="353" height="36" rx="15" fill="#263E60"/>
+<rect x="846" y="80" width="353" height="15" fill="#263E60"/>
+<circle cx="867" cy="78" r="5" fill="#E77A88"/><circle cx="884" cy="78" r="5" fill="#EBC877"/><circle cx="901" cy="78" r="5" fill="#5FD3BC"/>
+<text x="929" y="83" fill="#9BB5D4" font-size="12" font-family="monospace">developer.php</text>
+<text x="870" y="125" fill="#A4A1FF" font-size="16" font-family="monospace">class</text><text x="926" y="125" fill="#EDF3FF" font-size="16" font-family="monospace">Developer</text><text x="1016" y="125" fill="#65DFC8" font-size="16" font-family="monospace">{</text>
+<text x="891" y="161" fill="#62DECF" font-size="14" font-family="monospace">public function</text><text x="1020" y="161" fill="#F4E2A2" font-size="14" font-family="monospace">build()</text>
+<text x="907" y="196" fill="#96B0CB" font-size="14" font-family="monospace">$focus = [</text>
+<text x="930" y="221" fill="#D2B4FD" font-size="14" font-family="monospace">'architecture',</text>
+<text x="930" y="246" fill="#D2B4FD" font-size="14" font-family="monospace">'reliability'</text>
+<text x="907" y="269" fill="#96B0CB" font-size="14" font-family="monospace">];</text>
+<path d="M1199 120 L1233 101 M1199 120 L1241 141" fill="none" stroke="#56D5CA" opacity=".3" stroke-width="2"/>
+</svg>
